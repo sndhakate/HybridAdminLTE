@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="131526" started-at="2019-05-28T08:31:20Z" finished-at="2019-05-28T08:33:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="131526" started-at="2019-05-28T08:31:20Z" finished-at="2019-05-28T08:33:32Z">
+      <class name="com.jbkoffline.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="setUp" is-config="true" duration-ms="16197" started-at="2019-05-28T14:01:20Z" finished-at="2019-05-28T14:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="loginPageTitleTest" duration-ms="9" started-at="2019-05-28T14:01:36Z" finished-at="2019-05-28T14:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="tearDown" is-config="true" duration-ms="809" started-at="2019-05-28T14:01:36Z" finished-at="2019-05-28T14:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="setUp" is-config="true" duration-ms="9553" started-at="2019-05-28T14:01:37Z" finished-at="2019-05-28T14:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="urlLogoTest()[pri:2, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="urlLogoTest" duration-ms="302" started-at="2019-05-28T14:01:47Z" finished-at="2019-05-28T14:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="tearDown" is-config="true" duration-ms="799" started-at="2019-05-28T14:01:47Z" finished-at="2019-05-28T14:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="setUp" is-config="true" duration-ms="7403" started-at="2019-05-28T14:01:48Z" finished-at="2019-05-28T14:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="loginTest" duration-ms="1935" started-at="2019-05-28T14:01:55Z" finished-at="2019-05-28T14:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.LoginPageTest@3b6c624]" name="tearDown" is-config="true" duration-ms="773" started-at="2019-05-28T14:01:57Z" finished-at="2019-05-28T14:01:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbkoffline.qa.testcases.LoginPageTest -->
+      <class name="com.jbkoffline.qa.testcases.UsersPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="setUp" is-config="true" duration-ms="5532" started-at="2019-05-28T14:03:03Z" finished-at="2019-05-28T14:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUsersPageLabelTest()[pri:1, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="verifyUsersPageLabelTest" duration-ms="60" started-at="2019-05-28T14:03:08Z" finished-at="2019-05-28T14:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersPageLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="tearDown" is-config="true" duration-ms="779" started-at="2019-05-28T14:03:08Z" finished-at="2019-05-28T14:03:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="setUp" is-config="true" duration-ms="5683" started-at="2019-05-28T14:03:11Z" finished-at="2019-05-28T14:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateAddNewUsersTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="validateAddNewUsersTest" duration-ms="2753" started-at="2019-05-28T14:03:16Z" data-provider="getAddUserData" finished-at="2019-05-28T14:03:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kapil]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8.1041041E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[987654.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddNewUsersTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.UsersPageTest@62e6a3ec]" name="tearDown" is-config="true" duration-ms="733" started-at="2019-05-28T14:03:19Z" finished-at="2019-05-28T14:03:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbkoffline.qa.testcases.UsersPageTest -->
+      <class name="com.jbkoffline.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="setUp" is-config="true" duration-ms="10011" started-at="2019-05-28T14:01:58Z" finished-at="2019-05-28T14:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="verifyHomePageTitleTest" duration-ms="8" started-at="2019-05-28T14:02:08Z" finished-at="2019-05-28T14:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="tearDown" is-config="true" duration-ms="772" started-at="2019-05-28T14:02:08Z" finished-at="2019-05-28T14:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="setUp" is-config="true" duration-ms="8878" started-at="2019-05-28T14:02:09Z" finished-at="2019-05-28T14:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUsersLinkTest()[pri:2, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="verifyUsersLinkTest" duration-ms="382" started-at="2019-05-28T14:02:18Z" finished-at="2019-05-28T14:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUsersLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="tearDown" is-config="true" duration-ms="761" started-at="2019-05-28T14:02:18Z" finished-at="2019-05-28T14:02:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="setUp" is-config="true" duration-ms="7182" started-at="2019-05-28T14:02:19Z" finished-at="2019-05-28T14:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyOperatorsLinkTest()[pri:3, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="verifyOperatorsLinkTest" duration-ms="252" started-at="2019-05-28T14:02:26Z" finished-at="2019-05-28T14:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOperatorsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.HomePageTest@1eaf1e62]" name="tearDown" is-config="true" duration-ms="719" started-at="2019-05-28T14:02:26Z" finished-at="2019-05-28T14:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbkoffline.qa.testcases.HomePageTest -->
+      <class name="com.jbkoffline.qa.testcases.OperatorsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="setUp" is-config="true" duration-ms="6576" started-at="2019-05-28T14:02:27Z" finished-at="2019-05-28T14:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyOperatorsTableTest()[pri:1, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="verifyOperatorsTableTest" duration-ms="20847" started-at="2019-05-28T14:02:34Z" finished-at="2019-05-28T14:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOperatorsTableTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="tearDown" is-config="true" duration-ms="747" started-at="2019-05-28T14:02:54Z" finished-at="2019-05-28T14:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="setUp" is-config="true" duration-ms="6761" started-at="2019-05-28T14:02:55Z" finished-at="2019-05-28T14:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogOutTest()[pri:2, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="LogOutTest" duration-ms="234" started-at="2019-05-28T14:03:02Z" finished-at="2019-05-28T14:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.OperatorsPageTest@c81fd12]" name="tearDown" is-config="true" duration-ms="678" started-at="2019-05-28T14:03:02Z" finished-at="2019-05-28T14:03:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbkoffline.qa.testcases.OperatorsPageTest -->
+      <class name="com.jbkoffline.qa.testcases.RegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="setUp" is-config="true" duration-ms="4640" started-at="2019-05-28T14:03:20Z" finished-at="2019-05-28T14:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRegisterPageTitleTest()[pri:1, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="verifyRegisterPageTitleTest" duration-ms="10" started-at="2019-05-28T14:03:24Z" finished-at="2019-05-28T14:03:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="tearDown" is-config="true" duration-ms="770" started-at="2019-05-28T14:03:24Z" finished-at="2019-05-28T14:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="setUp" is-config="true" duration-ms="4325" started-at="2019-05-28T14:03:25Z" finished-at="2019-05-28T14:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnterRegisterUserDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="EnterRegisterUserDetails" duration-ms="1570" started-at="2019-05-28T14:03:29Z" data-provider="RegisterUserData" finished-at="2019-05-28T14:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gaurav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.23456789E9]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[xyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[987412.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterRegisterUserDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbkoffline.qa.testcases.RegisterPageTest@5754de72]" name="tearDown" is-config="true" duration-ms="760" started-at="2019-05-28T14:03:31Z" finished-at="2019-05-28T14:03:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbkoffline.qa.testcases.RegisterPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
