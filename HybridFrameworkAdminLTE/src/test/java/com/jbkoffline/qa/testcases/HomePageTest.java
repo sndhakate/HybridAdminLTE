@@ -33,7 +33,7 @@ public class HomePageTest extends TestBase{
 	@Test(priority=1)
 	public void verifyHomePageTitleTest() {
 		String homePageTitle = homePage.verifyHomePageTitle();
-		Assert.assertEquals(homePageTitle, "AdminLTE 2 | Dashboard");
+		Assert.assertEquals(homePageTitle, "AdminLTE 21 | Dashboard");
 	}
 	
 	@Test(priority=2)
